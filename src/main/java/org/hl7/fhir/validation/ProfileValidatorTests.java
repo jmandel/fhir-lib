@@ -11,7 +11,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
-import org.hl7.fhir.deserializers.XmlParser;
+import org.hl7.fhir.parsers.XmlParser;
 import org.hl7.fhir.model.Profile;
 import org.hl7.fhir.model.Resource;
 import org.hl7.fhir.utilities.CSFileInputStream;

@@ -33,7 +33,7 @@ POSSIBILITY OF SUCH DAMAGE.
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 
-import org.hl7.fhir.deserializers.XmlParserBase;
+import org.hl7.fhir.parsers.XmlParserBase;
 import org.hl7.fhir.model.AtomEntry;
 import org.hl7.fhir.model.AtomFeed;
 import org.hl7.fhir.model.Binary;

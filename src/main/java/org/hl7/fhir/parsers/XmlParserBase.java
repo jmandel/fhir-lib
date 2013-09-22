@@ -1,4 +1,4 @@
-package org.hl7.fhir.deserializers;
+package org.hl7.fhir.parsers;
 /*
 Copyright (c) 2011-2013, HL7, Inc
 All rights reserved.

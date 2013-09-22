@@ -15,7 +15,7 @@ import javax.xml.transform.stream.StreamSource;
 import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
 
-import org.hl7.fhir.deserializers.XmlParser;
+import org.hl7.fhir.parsers.XmlParser;
 import org.hl7.fhir.model.OperationOutcome;
 import org.hl7.fhir.model.OperationOutcome.IssueSeverity;
 import org.hl7.fhir.model.Resource;

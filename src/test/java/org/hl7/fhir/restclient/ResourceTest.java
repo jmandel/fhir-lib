@@ -32,10 +32,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-import org.hl7.fhir.deserializers.JsonParser;
-import org.hl7.fhir.deserializers.Parser;
-import org.hl7.fhir.deserializers.ParserBase.ResourceOrFeed;
-import org.hl7.fhir.deserializers.XmlParser;
+import org.hl7.fhir.parsers.JsonParser;
+import org.hl7.fhir.parsers.Parser;
+import org.hl7.fhir.parsers.ParserBase.ResourceOrFeed;
+import org.hl7.fhir.parsers.XmlParser;
 import org.hl7.fhir.serializers.JsonComposer;
 import org.hl7.fhir.serializers.XmlComposer;
 

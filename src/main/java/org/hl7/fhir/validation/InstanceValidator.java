@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-import org.hl7.fhir.deserializers.XmlParser;
+import org.hl7.fhir.parsers.XmlParser;
 import org.hl7.fhir.model.Address;
 import org.hl7.fhir.model.AtomEntry;
 import org.hl7.fhir.model.AtomFeed;

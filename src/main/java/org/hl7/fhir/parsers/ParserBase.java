@@ -1,4 +1,4 @@
-package org.hl7.fhir.deserializers;
+package org.hl7.fhir.parsers;
 
 import java.math.BigDecimal;
 import java.util.Calendar;

@@ -1,4 +1,4 @@
-package org.hl7.fhir.deserializers;
+package org.hl7.fhir.parsers;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.hl7.fhir.deserializers.ParserBase.ResourceOrFeed;
+import org.hl7.fhir.parsers.ParserBase.ResourceOrFeed;
 import org.hl7.fhir.model.AtomEntry;
 import org.hl7.fhir.model.AtomFeed;
 import org.hl7.fhir.model.MedicationPrescription;
